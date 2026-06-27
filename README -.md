@@ -1,6 +1,6 @@
 # Python Magic Methods
 
-A simple guide to Python's special (dunder) methods with practical examples.
+
 
 ## What's Inside
 
